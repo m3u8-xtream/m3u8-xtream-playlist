@@ -35,7 +35,7 @@ M3U8 Xtream playlist includes all known channels.
 
 ## EPG
 
-[Electronic Program Guide](https://en.wikipedia.org/wiki/Electronic_program_guide) for most of the playlist can be downloaded using utilities published in the m3u8 xtream repository.
+[Electronic Program Guide](https://en.wikipedia.org/wiki/Electronic_program_guide) for most of the channels can be downloaded using utilities published in the [m3u8-xtream](https://github.com/m3u8-xtream/m3u8-xtream-playlist) repository.
 
 ## License
 
