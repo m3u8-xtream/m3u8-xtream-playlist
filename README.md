@@ -1,6 +1,6 @@
 # M3U8-Xtream
 
-Collection of publicly available m3u8 xtream playlist from all over the world.
+Collection of publicly available M3U8 Xtream playlist from all over the world.
 
 ## Table of contents
 
@@ -10,15 +10,15 @@ Collection of publicly available m3u8 xtream playlist from all over the world.
 
 ## Playlists
 
-There are several versions of playlists that differ in the way they are grouped.
+There are several versions of M3U8 Xtream playlists that differ in the way they are grouped.
 
 ### Main playlist
 
-Playlist includes all known channels.
+M3U8 Xtream playlist includes all known channels.
 
 <table>
   <thead>
-    <tr><th align="left">Playlist</th></tr>
+    <tr><th align="left">M3U8 Xtream Playlist</th></tr>
   </thead>
   <tbody>
     <tr><td nowrap><code>https://warez.la/player_api.php?username=336813&password=458453</code></td></tr>
@@ -35,7 +35,7 @@ Playlist includes all known channels.
 
 ## EPG
 
-[Electronic Program Guide](https://en.wikipedia.org/wiki/Electronic_program_guide) for most of the channels can be downloaded using utilities published in the m3u8/xtream repository.
+[Electronic Program Guide](https://en.wikipedia.org/wiki/Electronic_program_guide) for most of the playlist can be downloaded using utilities published in the m3u8 xtream repository.
 
 ## License
 
