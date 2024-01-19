@@ -1,6 +1,6 @@
-# M3U8-Xtream
+# M3u8-Xtream
 
-Collection of publicly available M3U8 Xtream playlist from all over the world.
+Collection of publicly available free IPTV links M3u8 playlist, xtream playlist from all over the world.
 
 ## Table of contents
 
@@ -10,11 +10,11 @@ Collection of publicly available M3U8 Xtream playlist from all over the world.
 
 ## Playlists
 
-There are several versions of M3U8 Xtream playlists that differ in the way they are grouped.
+There are several versions of M3u8 Xtream playlists that differ in the way they are grouped.
 
 ### Main playlist
 
-M3U8 Xtream playlist includes all known channels.
+M3u8 Xtream playlist includes all known channels.
 
 <table>
   <thead>
