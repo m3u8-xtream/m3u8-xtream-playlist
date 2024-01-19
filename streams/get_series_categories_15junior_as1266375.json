@@ -1,0 +1,147 @@
+[
+  {
+    "category_id": "953",
+    "category_name": "SERIES | LAN\u00c7AMENTOS",
+    "parent_id": 0
+  },
+  {
+    "category_id": "783",
+    "category_name": "SERIES | REALITY SHOWS",
+    "parent_id": 0
+  },
+  { "category_id": "732", "category_name": "SERIES | NOVELAS", "parent_id": 0 },
+  {
+    "category_id": "940",
+    "category_name": "SERIES | NOVELAS ATUAIS",
+    "parent_id": 0
+  },
+  {
+    "category_id": "988",
+    "category_name": "SERIES | NOVELAS TURCAS",
+    "parent_id": 0
+  },
+  { "category_id": "805", "category_name": "SERIES | NETFLIX", "parent_id": 0 },
+  { "category_id": "870", "category_name": "SERIES | AMAZON", "parent_id": 0 },
+  {
+    "category_id": "804",
+    "category_name": "SERIES | GLOBOPLAY",
+    "parent_id": 0
+  },
+  {
+    "category_id": "871",
+    "category_name": "SERIES | HBO / HBO MAX",
+    "parent_id": 0
+  },
+  { "category_id": "809", "category_name": "SERIES | DISNEY+", "parent_id": 0 },
+  { "category_id": "869", "category_name": "SERIES | STAR+", "parent_id": 0 },
+  {
+    "category_id": "875",
+    "category_name": "SERIES | APPLE TV",
+    "parent_id": 0
+  },
+  {
+    "category_id": "874",
+    "category_name": "SERIES | STARZ / LIONSGATE+",
+    "parent_id": 0
+  },
+  {
+    "category_id": "892",
+    "category_name": "SERIES | DISCOVERY+",
+    "parent_id": 0
+  },
+  {
+    "category_id": "899",
+    "category_name": "SERIES | NATIONAL GEOGRAPHIC",
+    "parent_id": 0
+  },
+  {
+    "category_id": "876",
+    "category_name": "SERIES | PARAMOUNT+",
+    "parent_id": 0
+  },
+  { "category_id": "880", "category_name": "SERIES | CBS", "parent_id": 0 },
+  { "category_id": "881", "category_name": "SERIES | ABC", "parent_id": 0 },
+  { "category_id": "879", "category_name": "SERIES | FOX", "parent_id": 0 },
+  { "category_id": "916", "category_name": "SERIES | TNT", "parent_id": 0 },
+  { "category_id": "917", "category_name": "SERIES | NBC", "parent_id": 0 },
+  { "category_id": "877", "category_name": "SERIES | HULU", "parent_id": 0 },
+  { "category_id": "882", "category_name": "SERIES | WARNER", "parent_id": 0 },
+  { "category_id": "918", "category_name": "SERIES | SYFY", "parent_id": 0 },
+  { "category_id": "884", "category_name": "SERIES | A&E", "parent_id": 0 },
+  { "category_id": "883", "category_name": "SERIES | AMC", "parent_id": 0 },
+  { "category_id": "919", "category_name": "SERIES | AXN", "parent_id": 0 },
+  {
+    "category_id": "898",
+    "category_name": "SERIES | COMEDY CENTRAL",
+    "parent_id": 0
+  },
+  { "category_id": "897", "category_name": "SERIES | HISTORY", "parent_id": 0 },
+  {
+    "category_id": "955",
+    "category_name": "SERIES | BRASIL PARALELO",
+    "parent_id": 0
+  },
+  {
+    "category_id": "885",
+    "category_name": "SERIES | DIVERSAS",
+    "parent_id": 0
+  },
+  {
+    "category_id": "914",
+    "category_name": "SERIES | TALK SHOWS",
+    "parent_id": 0
+  },
+  {
+    "category_id": "895",
+    "category_name": "SERIES | CL\u00c1SSICOS DA TV",
+    "parent_id": 0
+  },
+  { "category_id": "906", "category_name": "SERIES | ANIMES", "parent_id": 0 },
+  {
+    "category_id": "908",
+    "category_name": "SERIES | ANIMES LEGENDADOS",
+    "parent_id": 0
+  },
+  {
+    "category_id": "888",
+    "category_name": "SERIES | TOKUSATSU",
+    "parent_id": 0
+  },
+  {
+    "category_id": "902",
+    "category_name": "SERIES | MARVEL / DC",
+    "parent_id": 0
+  },
+  {
+    "category_id": "893",
+    "category_name": "SERIES | DESENHOS / ANIMA\u00c7\u00c3O",
+    "parent_id": 0
+  },
+  {
+    "category_id": "894",
+    "category_name": "SERIES | DESENHOS INFANTIS",
+    "parent_id": 0
+  },
+  {
+    "category_id": "909",
+    "category_name": "SERIES | DESENHOS SITCOMS",
+    "parent_id": 0
+  },
+  {
+    "category_id": "915",
+    "category_name": "SERIES | DESENHOS MARVEL / DC",
+    "parent_id": 0
+  },
+  { "category_id": "911", "category_name": "SERIES | SITCOMS", "parent_id": 0 },
+  { "category_id": "742", "category_name": "SERIES | DORAMAS", "parent_id": 0 },
+  {
+    "category_id": "912",
+    "category_name": "SERIES | SHOWS NACIONAIS",
+    "parent_id": 0
+  },
+  {
+    "category_id": "913",
+    "category_name": "SERIES | SHOWS INTERNACIONAIS",
+    "parent_id": 0
+  }
+]
