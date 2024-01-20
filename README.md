@@ -4,9 +4,16 @@ Collection of publicly available free IPTV links M3u8 playlist, xtream playlist 
 
 ## Table of contents
 
+- 🚀 [How to use?](#how-to-use)
 - 📺 [Playlists](#playlists)
 - 🗓 [EPG](#epg)
 - © [License](#license)
+
+## How to use?
+
+Insert the xtream links below the playlist into the host/url, username, password sections respectively.
+
+![VLC Network Panel](https://raw.githubusercontent.com/m3u8-xtream/magazine-blog/master/img/preview.jpg)
 
 ## Playlists
 
