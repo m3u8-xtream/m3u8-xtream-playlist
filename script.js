@@ -8,4 +8,4 @@ const manifest = [
   "https://mainsrv.contentgftp.xyz/player_api.php?username=Geraldo&password=12345678",
 ];
 
-console.table(manifest);
+console.log(manifest);
