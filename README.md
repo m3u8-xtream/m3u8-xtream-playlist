@@ -14,6 +14,14 @@ Collection of publicly available free IPTV links M3u8 playlist, xtream playlist 
 
 Xtream API is often associated with Internet Protocol Television (IPTV) services. It is commonly used in IPTV systems for managing and accessing digital television content and provides Application Programming Interfaces (APIs) that allow interaction with IPTV services.
 
+Xtream Codes Example:
+
+```
+Host/Url: http://networkapk.com:8081
+Username: grdawos
+Password: cdaiwxs
+```
+
 ## How to use?
 
 Insert the xtream links below the playlist into the host/url, username, password sections respectively.
