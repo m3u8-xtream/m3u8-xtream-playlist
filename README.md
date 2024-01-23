@@ -25,7 +25,7 @@ Password: cdaiwxs
 
 ## M3u8 Example
 
-The playlist should be in the m3u format and should contain all m3u8 tracks.
+The playlist should be in the m3u format and should contain all m3u8 chanels.
 
 ```
 #EXTM3U
