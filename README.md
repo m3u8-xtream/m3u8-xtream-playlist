@@ -4,10 +4,15 @@ Collection of publicly available free IPTV links M3u8 playlist, xtream playlist 
 
 ## Table of contents
 
+- 👨‍💻 [Xtream API](#xtream-api)
 - 🚀 [How to use?](#how-to-use)
 - 📺 [Playlists](#playlists)
 - 🗓 [EPG](#epg)
 - © [License](#license)
+
+## Xtream API
+
+Xtream API is often associated with Internet Protocol Television (IPTV) services. It is commonly used in IPTV systems for managing and accessing digital television content and provides Application Programming Interfaces (APIs) that allow interaction with IPTV services.
 
 ## How to use?
 
