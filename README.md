@@ -5,6 +5,7 @@ Collection of publicly available free IPTV links M3u8 playlist, xtream playlist 
 ## Table of contents
 
 - 👨‍💻 [Xtream API](#xtream-api)
+- 🗓 [M3u8 Example](#m3u8-example)
 - 🚀 [How to use?](#how-to-use)
 - 📺 [Playlists](#playlists)
 - 🗓 [EPG](#epg)
@@ -20,6 +21,18 @@ Xtream Codes Example:
 Host/Url: http://networkapk.com:8081
 Username: grdawos
 Password: cdaiwxs
+```
+
+## M3u8 Example
+
+The playlist should be in the m3u format and should contain all m3u8 tracks.
+
+```
+#EXTM3U
+#EXTINF:-1 tvg-ID="chanel1.com" tvg-name="chanel1" tvg-logo="http://ch.xyz/chanel1.png" group-title="USA SHD",CHANEL1-SHD
+http://iptvexample.net:1234/12/test/1.m3u8
+#EXTINF:-1 tvg-ID="chanel2.com" tvg-name="chanel2" tvg-logo="http://ch.xyz/chanel2.png" group-title="USA SHD",CHANEL2-SHD
+http://iptvexample.net:1234/13/test/2.m3u8
 ```
 
 ## How to use?
