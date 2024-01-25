@@ -63,6 +63,8 @@ M3u8 Xtream playlist includes all known channels.
     <tr><td nowrap><code>https://mainsrv.contentgftp.xyz/player_api.php?username=Geraldo&password=12345678</code></td></tr>
     <tr><td nowrap><code>http://2hubs.ddns.net:25461/player_api.php?username=Faucon1tvMT&password=g8pHKUYxwDhx</code></td></tr>
     <tr><td nowrap><code>http://sport.xphost19.xyz:2082/player_api.php?username=Jvyct679999967DDDF4477&password=Xpluxxx3333ggghy5t57</code></td></tr>
+    <tr><td nowrap><code>http://138.255.102.3:25461/player_api.php?username=FOXSPORTS1HDsd&password=RRZKamZw9a</code></td></tr>
+    <tr><td nowrap><code>http://iptv.icsnleb.com:25461/player_api.php?username=12&password=12</code></td></tr>
   </tbody>
 </table>
 
