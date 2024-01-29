@@ -6,7 +6,6 @@ const manifest = [
   "http://6oclock.xyz/player_api.php?username=oVTsSvYjZu&password=cAXDNm9LY9",
   "https://mainsrv.contentgftp.xyz/player_api.php?username=Geraldo&password=12345678",
   "http://iptv.nextnet.krd:25461/get.php?username=nextnet&password=3738",
-  "https://voz.one/player_api.php?username=alexfnt&password=vTFBGKdUYq",
 ];
 
 console.log(manifest);
