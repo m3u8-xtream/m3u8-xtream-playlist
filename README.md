@@ -20,7 +20,7 @@ Xtream Codes Example:
 ```
 Host/Url: http://networkapk.com:8081
 Username: grdawos12
-Password: cdaiwxs
+Password: cdaiwxs12
 ```
 
 ## M3u8 Example
