@@ -30,9 +30,9 @@ The playlist should be in the m3u format and should contain all m3u8 chanels.
 ```
 #EXTM3U
 #EXTINF:-1 tvg-ID="chanel1.com" tvg-name="chanel" tvg-logo="http://ch.xyz/chanel1.png" group-title="USA SHD",CHANEL1-SHD
-http://iptvexample.net:1234/12/test/1.m3u8
+http://iptvexample.net:1234/123/test/1.m3u8
 #EXTINF:-1 tvg-ID="chanel2.com" tvg-name="chanel2" tvg-logo="http://ch.xyz/chanel2.png" group-title="USA SHD",CHANEL2-SHD
-http://iptvexample.net:1234/13/test/2.m3u8
+http://iptvexample.net:1234/132/test/2.m3u8
 ```
 
 ## How to use?
