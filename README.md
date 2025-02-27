@@ -96,7 +96,7 @@ M3U playlists can be used with various media players and applications:
 3. **Perfect Player**: Go to Settings > Playlists, add a new playlist, and enter the M3U URL.
 4. **IPTV Smarters**: Go to Settings > Add Playlist, and enter the M3U URL.
 5. **Smart TVs**: Many smart TVs have built-in IPTV apps that support M3U playlists.
-6. **Mobile Apps**: Apps like GSE IPTV, IPTV Smarters, and TiviMate support M3U playlists.
+6. **Mobile Apps**: Apps like Xtify, GSE IPTV, IPTV Smarters, and TiviMate support M3U playlists.
 
 </details>
 
