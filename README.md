@@ -10,7 +10,7 @@ M3U8 is a UTF-8 encoded version of the M3U format, which supports additional fea
 
 ### Top IMDB Movies 2024-2025
 ```
-https://aymrgknetzpucldhpkwm.supabase.co/storage/v1/object/public/tmdb//top-movies.m3u
+https://aymrgknetzpucldhpkwm.supabase.co/storage/v1/object/public/tmdb/top-movies.m3u
 ```
 
 ### Public TV Channels
