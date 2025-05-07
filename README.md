@@ -13,6 +13,11 @@ M3U8 is a UTF-8 encoded version of the M3U format, which supports additional fea
 https://aymrgknetzpucldhpkwm.supabase.co/storage/v1/object/public/tmdb/top-movies.m3u
 ```
 
+### Trending TV Series
+```
+https://aymrgknetzpucldhpkwm.supabase.co/storage/v1/object/public/tmdb/trending-series.m3u
+```
+
 ### Genre-Based Movies
 
 **Action Movies**
